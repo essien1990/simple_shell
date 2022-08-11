@@ -110,7 +110,7 @@ exit
 ````
 > **2: Press on Ctrl + D**
 
-## Example of Usage
+## :warning: Example of Usage
 ````
 ubunto@ubuntu:~/OS/simple_shell$ gcc -Wall -Wextra -Werror -pedantic *.c -o hsh
 ubunto@ubuntu:~/OS/simple_shell$ ./hsh
